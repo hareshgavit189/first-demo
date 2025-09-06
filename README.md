@@ -1,2 +1,2 @@
 # first-demo
-This is my first Repositiry
+This is my first Git Repositiry
